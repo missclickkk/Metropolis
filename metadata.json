@@ -1,0 +1,6 @@
+{
+  "name": "METROPOLIS — Яндекс Игры",
+  "description": "Экономический кликер-симулятор жизни и бизнес-тайкун METROPOLIS v3.0 с поддержкой Яндекс Игры SDK v2, облачных сохранений, лидерборда и рекламы за вознаграждение.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
